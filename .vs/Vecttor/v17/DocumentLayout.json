@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7121B9F2-2163-4953-86AB-4B98126B6282}|Vecttor.Test\\Vecttor.Tests.csproj|c:\\users\\usuario\\source\\repos\\vecttor02\\vecttor.test\\asteroidscontroller_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7121B9F2-2163-4953-86AB-4B98126B6282}|Vecttor.Test\\Vecttor.Tests.csproj|solutionrelative:vecttor.test\\asteroidscontroller_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378C7DFC-59F4-410F-8943-36718F190400}|Vecttor02\\Vecttor.csproj|c:\\users\\usuario\\source\\repos\\vecttor02\\vecttor02\\controllers\\asteroidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378C7DFC-59F4-410F-8943-36718F190400}|Vecttor02\\Vecttor.csproj|solutionrelative:vecttor02\\controllers\\asteroidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378C7DFC-59F4-410F-8943-36718F190400}|Vecttor02\\Vecttor.csproj|c:\\users\\usuario\\source\\repos\\vecttor02\\vecttor02\\service\\nasaapiservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378C7DFC-59F4-410F-8943-36718F190400}|Vecttor02\\Vecttor.csproj|solutionrelative:vecttor02\\service\\nasaapiservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsteroidsController_Should.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor.Test\\AsteroidsController_Should.cs",
+              "RelativeDocumentMoniker": "Vecttor.Test\\AsteroidsController_Should.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor.Test\\AsteroidsController_Should.cs",
+              "RelativeToolTip": "Vecttor.Test\\AsteroidsController_Should.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:42:16.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NasaApiService .cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Service\\NasaApiService .cs",
+              "RelativeDocumentMoniker": "Vecttor02\\Service\\NasaApiService .cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Service\\NasaApiService .cs",
+              "RelativeToolTip": "Vecttor02\\Service\\NasaApiService .cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:38:13.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsteroidsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Controllers\\AsteroidsController.cs",
+              "RelativeDocumentMoniker": "Vecttor02\\Controllers\\AsteroidsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Controllers\\AsteroidsController.cs",
+              "RelativeToolTip": "Vecttor02\\Controllers\\AsteroidsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:27:05.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

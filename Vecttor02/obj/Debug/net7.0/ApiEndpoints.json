@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Vecttor02.Controllers.AsteroidsController",
+    "Method": "GetAsteroids",
+    "RelativePath": "Asteroids",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "days",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
