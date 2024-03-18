@@ -3,9 +3,8 @@ using Vecttor02.Service;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<NasaApiService>();
+builder.Services.AddScoped<INasaApiService, NasaApiService>();
 
 builder.Services.AddHttpClient();
 
