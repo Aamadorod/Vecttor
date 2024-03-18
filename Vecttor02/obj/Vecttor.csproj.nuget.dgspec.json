@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Vecttor.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor\\Vecttor02\\Vecttor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Vecttor.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor\\Vecttor02\\Vecttor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Vecttor.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor\\Vecttor02\\Vecttor.csproj",
         "projectName": "Vecttor",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Vecttor.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor\\Vecttor02\\Vecttor.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor\\Vecttor02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

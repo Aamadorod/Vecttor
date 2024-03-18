@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSGHA/LYZpjf7SdqrI1AQLzqAtlXbjNItcT9/FzmlDw9yDHHiuhiTO7Sxy7QM/H72EGiGvF+9qMsPb8YrBAVcA==",
+  "dgSpecHash": "3x1oGO4jC0U3ollUz0as+3UDSOKQy1LB4KguAdHZvYAHIZNxdMuWqxudTaiJbp19kMlN2WFUwJD8DMjJK1eNMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor02\\Vecttor.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Vecttor02\\Vecttor\\Vecttor02\\Vecttor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.15\\microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.17\\microsoft.entityframeworkcore.7.0.17.nupkg.sha512",

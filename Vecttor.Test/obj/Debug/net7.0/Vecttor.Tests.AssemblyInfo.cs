@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vecttor.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09641e14b1fbf74f4c2cbaa84b5a4876e724c3f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+709157d4687aca93a644cfc5b71061c8ead5d033")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vecttor.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vecttor.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
